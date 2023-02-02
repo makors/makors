@@ -1,5 +1,5 @@
 # Heya there! 👋
-## I am **makors**, a self-taugh developer.
+## I am **makors**, a self-taught developer.
 
 ### Here are some stats:
 [![wakatime](https://wakatime.com/badge/user/94e06522-c160-40dd-8184-95793a55e1fa.svg)](https://wakatime.com/@94e06522-c160-40dd-8184-95793a55e1fa)
