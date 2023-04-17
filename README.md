@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on Bolt
 - 🌱 I’m currently learning GoLang
-- 📫 How to reach me: **makors#9999**
+- 📫 How to reach me: **makeorz#7777**
