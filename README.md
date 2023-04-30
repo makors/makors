@@ -7,3 +7,6 @@
 - 🔭 I’m currently working on Bolt
 - 🌱 I’m currently learning GoLang
 - 📫 How to reach me: **makeorz#7777**
+
+### Misc. 🚀
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
