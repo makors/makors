@@ -9,4 +9,4 @@
 - 📫 How to reach me: **makeorz#7777**
 
 ### Misc. 🚀
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1092918803442172015)](https://discord.com/users/1092918803442172015)
