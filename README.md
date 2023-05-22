@@ -1,5 +1,5 @@
 # Heya there! 👋
-## I am **makors**, a fully self-taught developer.
+## I'm **makors**, a fully self-taught developer.
 
 ### About Me 🤔
 I build very cool and fast projects, plain and simple.
