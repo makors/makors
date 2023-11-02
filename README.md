@@ -11,4 +11,4 @@
 
 - 🔭 I’m currently working on Bolt Automation
 - 🌱 I’m currently learning GoLang
-- 📫 How to reach me: **makeorz#7777**
+- 📫 How to reach me: **bigcorp** on Discord
