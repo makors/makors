@@ -1,8 +1,14 @@
-i develop software that makes our lives easier.
+developer
 
-portifolio site: https://makors.xyz
+portifolio: https://makors.xyz
 
-ways to contact me:
-- discord: makors
+current projects:
+- [muko](https://muko.io): end-to-end reselling automation. coming soon.
+- [dexrs](https://github.com/makors/dexrs): dexcom data library for rust
+- [dexy](https://github.com/makors/dexy): your blood sugar companion in the terminal
+- [readme.sh](https://readme.sh): my blog! i post stuff on there sometimes
+
+contact me:
+- discord (preferred): makors
 - x: mak0rs
-- email: makors@muko.io / makors@makors.xyz
+- email: makors at muko.io or makors at makors.xyz
