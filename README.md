@@ -1,6 +1,6 @@
 developer
 
-portifolio: https://makors.xyz
+portfolio: https://makors.xyz
 
 current projects:
 - [muko](https://muko.io): end-to-end reselling automation. coming soon.
@@ -10,5 +10,4 @@ current projects:
 
 contact me:
 - discord (preferred): makors
-- x: mak0rs
-- email: makors at muko.io or makors at makors.xyz
+- email: makors@muko.io
