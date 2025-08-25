@@ -1,12 +1,11 @@
-developer
+i use computers or something like that
 
-portfolio: https://makors.xyz
+https://makors.xyz
 
 current projects:
-- [muko](https://muko.io): end-to-end reselling automation. coming soon.
+- [readme.sh](https://readme.sh): my blog! i post stuff on there sometimes
 - [dexrs](https://github.com/makors/dexrs): dexcom data library for rust
 - [dexy](https://github.com/makors/dexy): your blood sugar companion in the terminal
-- [readme.sh](https://readme.sh): my blog! i post stuff on there sometimes
 
 contact me:
 - discord (preferred): makors
