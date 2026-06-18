@@ -1,3 +1,3 @@
-i use computers
+build things people want
 
 makors@discern.computer
