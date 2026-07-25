@@ -1,3 +1,3 @@
-build things people want
+chef
 
 makors@discern.computer
