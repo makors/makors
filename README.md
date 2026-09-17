@@ -1,3 +1,3 @@
-chef
+wayfinding
 
 makors@discern.computer
